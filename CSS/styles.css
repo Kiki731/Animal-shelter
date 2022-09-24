@@ -221,3 +221,47 @@ hr.bandana{
 .contact-image .btn{
     margin-left: 650px;
 }
+.meet-workers h1{
+    color: black;
+    text-align: center;
+    margin-top: 120px;
+    font-weight: bold;
+    font-size: 50px;
+    opacity: 75%;
+}
+.meet-workers h2{
+    color: red;
+    text-align: center;
+    /* margin-top: 90px; */
+    font-size: 25px;
+    padding: 0%;
+}
+.meet-workers .img img{
+    width: 150px;
+    height: 60px;
+    margin-left: 600px;
+    padding-top: 1px;   
+}
+.meet-workers .card{
+    margin-left: 30px;
+}
+.meet-workers p{
+    text-align: left;
+    color: black;
+}
+.meet-workers .exp{
+    text-align: left;
+    color: red;
+}
+.meet-workers h5{
+    font-size: 25px;
+    padding-top: 30px;
+    text-align: left;
+}
+.end-button{
+    margin-left: 650px;
+    margin-top: 20px;
+}
+.card-body img{
+    width: 30px;
+  }
