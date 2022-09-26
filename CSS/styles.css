@@ -1,3 +1,7 @@
+a {
+    text-decoration: none;
+}
+
 .navbar-brand{
     width: 70px;
     height: 65px;
@@ -264,4 +268,90 @@ hr.bandana{
 }
 .card-body img{
     width: 30px;
-  }
+}
+  .follow h1{
+    color: black;
+    text-align: center;
+    margin-top: 120px;
+    font-weight: bold;
+    font-size: 50px;
+    opacity: 75%;
+}
+.follow h2{
+    color: red;
+    text-align: center;
+    /* margin-top: 90px; */
+    font-size: 25px;
+    padding: 0%;
+}
+.maps{
+    margin-top: 150px;
+}
+.footer{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    margin-top: 15px;
+    opacity: 84%;
+}
+.footer .logo{
+    width: 43px;
+    height: 40px;
+    margin-top: 70px;
+}
+.footer h3{
+    color: white;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+.footer h5{
+    color: grey;
+    font-size: 18px;
+    font-weight: lighter;
+}
+.footer .first-row p{
+    color: white;
+    font-size: 10px;
+    margin-top: 1px;
+
+}
+.rights{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 7vh;
+    opacity: 89%;
+
+}
+.rights p{
+    text-align: center;
+    padding-top: 10px;
+}
+.footer .card-body img{
+    width: 30px;
+    margin-top: 20px;
+}
+.meet-workers .card-body{
+    padding-bottom: 0px;
+}
+.informat{
+    margin-top: 110px;
+    padding-left: 50px;
+}
+.informat-2{
+    margin-top: 30px;
+    padding-left: 50px;
+}
+.informat-3{
+    margin-top: 170px;
+}
+
+/* .informat-4{
+    margin-top: 110px;
+    font-size: 15px;
+    color: gray;
+} */
+.informat-5 {
+    margin-top: 30px;
+}
